@@ -5,7 +5,7 @@ A brief description of what this project does and who it is for.
 (Replace this with your actual project idea.)
 
 ## 🚀 Features
-- Feature 1
+- Finalise tech stack
 - Feature 2
 - Feature 3
 
