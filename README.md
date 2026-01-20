@@ -18,7 +18,7 @@
 
   <br />
 
-  <img src="" alt="Project Banner" width="100%" />
+  <img src="Project Banner.png" alt="Project Banner" width="100%" />
 
 </div>
 
