@@ -132,6 +132,38 @@ We are actively contributed to the project using professional Git workflows incl
 - Code refactoring and backend configuration updates
 
 ---
+### ✅ Collaboration Evidence
+
+- Multiple feature branches created and merged  
+- Multiple pull requests submitted and reviewed  
+- Merge conflicts intentionally created and successfully resolved  
+- Balanced commit distribution across all members  
+- Clear CI/CD workflow execution history  
+- Continuous deployment via GitHub Actions  
+---
+# ⚙️ Setup Instructions
+
+## Installation
+
+```bash
+https://github.com/Dinith2024/VisionFood.git
+```
+## Navigate to project directory
+```bash
+cd VisionFood
+```
+
+## Install dependencies
+```bash
+npm install
+```
+
+## Run development server
+```bash
+npm run dev
+```
+
+
 ## 📂 Project Structure
 
 The project is organized into two main directories: **Frontend** (Next.js) and **Backend** (Sanity Studio).
