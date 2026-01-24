@@ -24,7 +24,7 @@
 
   <br />
 
-  <img src="https://via.placeholder.com/1200x500.png?text=VisionFood+App+Banner" alt="Project Banner" width="100%" />
+  <img src="https://github.com/Dinith2024/VisionFood/blob/b891280f8c4a7cb6e5efbc6561ea2e886a1bf0ce/Project%20Banner.png" alt="Project Banner" width="100%" />
 
 </div>
 
