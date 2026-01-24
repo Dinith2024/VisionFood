@@ -3,9 +3,9 @@
   <h1>🍔 VisionFood</h1>
   <h2> Group Information</h2>
   <p>
-  Student 1 : Dinith Sasanga - ITBIN-2313-0101 - Role-DevOps/Release Manager
-  Student 2 : Dhanuka Neranjan - ITBIN-2313-0130 - Role-Backend Developer
-  Student 3 : Savindu Wijesinghe - ITBIN-2313-0129 - Role-Frontend Developer
+  Student 1 : Dinith Sasanga - ITBIN-2313-0101 - Role-DevOps/Release Manager /n
+  Student 2 : Dhanuka Neranjan - ITBIN-2313-0130 - Role-Backend Developer /n
+  Student 3 : Savindu Wijesinghe - ITBIN-2313-0129 - Role-Frontend Developer /n
   </p>
   
   <h3>Experience the Future of Food Delivery</h3>
